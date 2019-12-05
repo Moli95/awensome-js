@@ -1,2 +1,2 @@
 console.log('awensome-js');
-console.log("YEAH");
+console.log('Yeah');
